@@ -1,0 +1,14 @@
+<meta>
+<!-- Native UI Outil function -->
+    <script src="info.lua" type="client" />
+    <script src="notification.lua" type="client" />
+    <export function = "drawNotification" type="client" />
+    <export function = "removeNotification" type="client" />
+    <export function="drawInfoBar" type="client" />
+    <export function="removeInfoBar" type="client" />
+
+    <file src="elements/hitm.wav" />
+    <file src="elements/back.png" />
+    <file src="elements/enter.png"/>
+    <file src="elements/arrow.png" />
+</meta>
